@@ -1,6 +1,4 @@
 # EthanSnyder
-A driven and analytical business analytics graduate student with a strong foundation in finance from the College of William & Mary, I bring a unique blend of technical skill and strategic thinking to problem-solving. With hands-on experience in data analysis, visualization, and predictive modeling, I’ve tackled real-world projects in commercial real estate valuation, commodity portfolio management, and public-sector budgeting.
+I'm a current Master of Science in Business Analytics (MSBA) student with a background in finance from the College of William & Mary, where I also competed as a Division I student-athlete on the baseball team. My academic and athletic experiences have shaped a disciplined, team-oriented mindset and a strong foundation in both quantitative analysis and strategic thinking.
 
-My work reflects a deep understanding of financial principles, statistical modeling, and data storytelling, backed by tools like Python, Excel, Tableau, and Alteryx. I thrive in collaborative environments and value clarity, structure, and continuous improvement. Whether optimizing milk routes for supply chains or analyzing COVID-era cheese pricing for retailers, I approach every challenge with curiosity and commitment.
-
-I’m currently exploring opportunities to grow as a financial or business analyst, where I can apply data-driven insights to support smarter decision-making and long-term value creation.
+I’m passionate about applying data-driven insights to solve real-world problems in business analytics and finance. With interests spanning financial modeling, valuation, and data visualization, I’m actively developing the technical and analytical skills needed to drive smart, impactful decisions in dynamic environments.
